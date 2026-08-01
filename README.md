@@ -27,4 +27,4 @@ Information Systems Engineering student and Research Assistant at UTN FRC, worki
 
 Python · C++ · PyTorch · Hugging Face Transformers · FAISS · CUDA/AMP · FastAPI · Linux · Docker · Git
 
-📍 Córdoba, Argentina · [LinkedIn](https://www.linkedin.com/in/matias-koroch)
+📍 Córdoba, Argentina · [LinkedIn](https://www.linkedin.com/in/matias-koroch) · [ResearchGate](https://www.researchgate.net/profile/Matias-Koroch)
