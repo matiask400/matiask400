@@ -1,6 +1,6 @@
 # Hi, I'm Matías Koroch 👋
 
-Information Systems Engineering student and Research Assistant at UTN FRC, working on scientific computing, reliable code-generation models, and reproducible ML systems.
+Artificial Intelligence and Information Systems Engineering student at UTN FRC, researching reliable code generation and building reproducible evaluation pipelines for language models.
 
 ## Highlights
 
