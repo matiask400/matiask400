@@ -17,6 +17,8 @@ Artificial Intelligence and Information Systems Engineering student at UTN FRC, 
 
 - **Distributed Multimodal Retrieval System** — 1st place in the UTN AI Course Competition. Built a multi-GPU image retrieval pipeline using PyTorch, OpenCLIP, FAISS, and CUDA/AMP.
 
+- [McDuck ICPC Handbook](https://github.com/matiask400/mcduck-handbook) — Spanish competitive programming team handbook featuring algorithms, data structures, complexity analysis, and tested C++17 implementations.
+
 - [LAMBDA CubeSat Software](https://github.com/Team-COREX/Software) — Contributed to an early-stage CubeSat software prototype featuring simulated telemetry, real-time sensor visualization, statistical analysis, CSV export, and 3D flight orientation using JavaScript, Chart.js, Three.js, and Python.
 
 - [LAMBDA Mission Control Hub](https://github.com/Team-COREX/web) — Contributed to a responsive mission interface built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui.
