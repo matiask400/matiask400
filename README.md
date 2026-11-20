@@ -1,11 +1,11 @@
 # Hi, I'm Matías Koroch 👋
 
-Artificial Intelligence and Information Systems Engineering student at UTN FRC, researching reliable code generation and building reproducible evaluation pipelines for language models.
+Student of Artificial Intelligence and Information Systems Engineering at UTN FRC, conducting research on large language models.
 
 ## Highlights
 
-- Authored and presented three technical papers at CONAIISI, including two as first author.
-- Represented UTN Córdoba at the ICPC South America South Finals 2025 and 2026.
+- Authored and presented three technical papers at CONAIISI 2024 and 2025, serving as first author on two.
+- Represented UTN Córdoba at the ICPC South America South Finals in 2025 and 2026 as part of Team McDuck.
 - Contributed to the official Spanish Python documentation through [python-docs-es](https://github.com/python/python-docs-es).
 
 ## Current Research
@@ -23,10 +23,10 @@ Artificial Intelligence and Information Systems Engineering student at UTN FRC, 
 
 - [LAMBDA Mission Control Hub](https://github.com/Team-COREX/web) — Contributed to a responsive mission interface built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui.
 
-- [Vehicle Agency](https://github.com/matiask400/Vehicle-Agency) — Backend system featuring geolocation, test-drive management, safety rules, and notifications.
+- [Nueva Cordoba-pybullet](https://github.com/matiask400/nueva-cordoba-pybullet) — 3D urban simulation of Nueva Córdoba for drone navigation research, built with PyBullet and featuring configurable wind, collisions, and real-world geographic data.
 
 ## Core Stack
 
 Python · C++ · PyTorch · Hugging Face Transformers · FAISS · CUDA/AMP · FastAPI · Linux · Docker · Git
 
-📍 Córdoba, Argentina · [LinkedIn](https://www.linkedin.com/in/matias-koroch) · [ResearchGate](https://www.researchgate.net/profile/Matias-Koroch)
+📍 Córdoba, Argentina · [LinkedIn](https://www.linkedin.com/in/matias-koroch) · [ResearchGate](https://www.researchgate.net/profile/Matias-Koroch) · [Codeforces](https://codeforces.com/profile/MatiasKh)
