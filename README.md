@@ -5,7 +5,7 @@ Artificial Intelligence and Information Systems Engineering student at UTN FRC, 
 ## Highlights
 
 - Authored and presented three technical papers at CONAIISI, including two as first author.
-- Represented UTN Córdoba at the ICPC South America South Finals 2025.
+- Represented UTN Córdoba at the ICPC South America South Finals 2025 and 2026.
 - Contributed to the official Spanish Python documentation through [python-docs-es](https://github.com/python/python-docs-es).
 
 ## Current Research
